@@ -1,3 +1,4 @@
+### How to run me :  YAML_OUTPUT_PATH=dudu.json python3 main.py people.json age_ranges.json
 import json
 import os
 import argparse
